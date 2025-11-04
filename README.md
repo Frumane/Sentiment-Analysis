@@ -1,4 +1,4 @@
-Download the sentiment140 from https://www.kaggle.com/datasets/kazanova/sentiment140
+
 
 Launch the sentiment.py for .pt module
 
